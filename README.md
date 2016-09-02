@@ -1,2 +1,5 @@
 # MinimizacaoMoore
-Equivalence of DFA with Moore's Minimization
+
+Equivalence of DFA using Moore's minimization
+
+Equivalencia de Autômatos Finitos Deterministicos utilizando o método de minimização de Moore
